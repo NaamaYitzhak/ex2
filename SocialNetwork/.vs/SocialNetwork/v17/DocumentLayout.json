@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\ex2\\ex2\\SocialNetwork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E57F8689-34C4-42EE-868C-32F9BE6DE48F}|SocialNetwork.vcxproj|C:\\Users\\User\\OneDrive\\Desktop\\ex2\\ex2\\SocialNetwork\\SocialNetwork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E57F8689-34C4-42EE-868C-32F9BE6DE48F}|SocialNetwork.vcxproj|solutionrelative:SocialNetwork.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SocialNetwork.cpp",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\ex2\\ex2\\SocialNetwork\\SocialNetwork.cpp",
+              "RelativeDocumentMoniker": "SocialNetwork.cpp",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\ex2\\ex2\\SocialNetwork\\SocialNetwork.cpp",
+              "RelativeToolTip": "SocialNetwork.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T14:58:32.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
